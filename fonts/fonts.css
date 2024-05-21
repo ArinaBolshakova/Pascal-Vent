@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Ruberoid Bold';
+    src: url('Ruberoid-Bold.eot');
+    src: local('Ruberoid Bold'), local('Ruberoid-Bold'),
+        url('Ruberoid-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Ruberoid-Bold.woff2') format('woff2'),
+        url('Ruberoid-Bold.woff') format('woff'),
+        url('Ruberoid-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ruberoid Light';
+    src: url('Ruberoid-Light.eot');
+    src: local('Ruberoid Light'), local('Ruberoid-Light'),
+        url('Ruberoid-Light.eot?#iefix') format('embedded-opentype'),
+        url('Ruberoid-Light.woff2') format('woff2'),
+        url('Ruberoid-Light.woff') format('woff'),
+        url('Ruberoid-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ruberoid Medium';
+    src: url('Ruberoid-Medium.eot');
+    src: local('Ruberoid Medium'), local('Ruberoid-Medium'),
+        url('Ruberoid-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Ruberoid-Medium.woff2') format('woff2'),
+        url('Ruberoid-Medium.woff') format('woff'),
+        url('Ruberoid-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ruberoid Semi';
+    src: url('Ruberoid-SemiBold.eot');
+    src: local('Ruberoid Semi Bold'), local('Ruberoid-SemiBold'),
+        url('Ruberoid-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Ruberoid-SemiBold.woff2') format('woff2'),
+        url('Ruberoid-SemiBold.woff') format('woff'),
+        url('Ruberoid-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('Proxima-Nova-Reg.eot');
+    src: local('Proxima-Nova-Regular'), local('Proxima-Nova-Reg'),
+        url('Proxima-Nova-Reg.eot?#iefix') format('embedded-opentype'),
+        url('Proxima-Nova-Reg.woff2') format('woff2'),
+        url('Proxima-Nova-Reg.woff') format('woff'),
+        url('Proxima-Nova-Reg.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Semibold';
+    src: url('Proxima-Nova-Semibold.eot');
+    src: local('Proxima-Nova-Semibold'), local('Proxima-Nova-Semibold'),
+        url('Proxima-Nova-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('Proxima-Nova-Semibold.woff2') format('woff2'),
+        url('Proxima-Nova-Semibold.woff') format('woff'),
+        url('Proxima-Nova-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    src: url('Proxima-Nova-Bold.eot');
+    src: local('Proxima Nova Bold'), local('Proxima-Nova-Bold'),
+        url('Proxima-Nova-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Proxima-Nova-Bold.woff2') format('woff2'),
+        url('Proxima-Nova-Bold.woff') format('woff'),
+        url('Proxima-Nova-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
